@@ -4,8 +4,9 @@ Setup
 This assumes a minimalistic dev environment. You can also use Dev Studio's Python plugin if you like.
 
 1. Install python 3.5
-1. Create a virtual env
+1. Create a virtual env 
 
+        cd <project root directory>
         c:\python35-32\python.exe -m venv env
 
     This will create a virtual env in a directory called 'env'.
